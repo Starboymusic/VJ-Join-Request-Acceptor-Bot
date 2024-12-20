@@ -19,7 +19,7 @@ async def start_message(c,m):
         caption=f"<b>Hello {m.from_user.mention} 👋\n\nI Am Join Request Acceptor Bot. I Can Accept All Old Pending Join Request.\n\nFor All Pending Join Request Use - /accept</b>",
         reply_markup=InlineKeyboardMarkup(
             [[
-                InlineKeyboardButton('💝 Jᴏɪɴ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://youtube.com/@Tech_VJ')
+                InlineKeyboardButton('💝 Jᴏɪɴ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/Star_Boy_96_vibes')
             ],[
                 InlineKeyboardButton("❣️ ᴅᴇᴠᴇʟᴏᴘᴇʀ", url='https://t.me/Star_light_10'),
                 InlineKeyboardButton("🤖 ᴜᴘᴅᴀᴛᴇ", url='https://t.me/Star_Boy_96_vibes')

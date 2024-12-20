@@ -18,10 +18,10 @@
 - `/logout` : logout your telegram account 
 - `/broadcast` : reply this command to your broadcast message in bot.</b>
 
-## How To Make Your Own [Video Tutorial](https://youtube.com/@Tech_VJ)
+## How To Make Your Own [Video Tutorial](https://t.me/Star_Boy_96_vibes)
 
 ## Update Channel [VJ Botz](https://telegram.me/vj_botz)
 
 ## Support Group [VJ Support](https://telegram.me/vj_bot_disscussion)
 
-## Credit - [Tech VJ](https://youtube.com/@Tech_VJ)
+## Credit - [Tech VJ](https://t.me/Star_Boy_96_vibes)
